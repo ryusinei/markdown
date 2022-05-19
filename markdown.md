@@ -72,3 +72,11 @@ this is the *italic* text and this is the **bold** text!
 ```javascript
 console.log();
 ```
+
+```diff
+- console.log();
++ console.log(0);
+```
+
+<!-- keyboard -->
+press <kbd> + </kbd>
